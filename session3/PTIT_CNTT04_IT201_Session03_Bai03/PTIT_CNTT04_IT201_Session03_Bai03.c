@@ -4,7 +4,7 @@
 int average(int *arr , int n);
 int main(void) {
     int n ;
-    printf("nhap do dai mang : ");
+    printf("nhap do dai mang : \t");
     scanf("%d",&n);
     if (n<=0) {
         printf("gia tri nhap khong hop le");
@@ -17,13 +17,14 @@ int main(void) {
     }
     printf("nhap mang\n");
     for (int i = 0; i < n ; i++) {
-        printf("phan tu thu %d " , i+1);
+        printf("phan tu thu %d : \t " , i+1);
         scanf("%d",&arrPtr[i]);
     }
     printf("in mang:\n");
     for (int i = 0; i < n ; i++) {
-        printf("%d",arrPtr[i]);
+        printf("%d ",arrPtr[i]);
     }
+    printf("\n");
     int res = average(arrPtr , n);
     printf("ket qua =  %d" , res);
     free(arrPtr);

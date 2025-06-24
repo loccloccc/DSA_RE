@@ -8,7 +8,6 @@ int main(void) {
     scanf("%d", &row);
     printf("nhap cot:");
     scanf("%d", &col);
-    printf("nhap mang\n");
     if (row <= 0 || col <= 0) {
         printf("loi");
         return;
@@ -17,6 +16,7 @@ int main(void) {
         printf("khong ton tai duong cheo chinh , duong cheo phu");
         return;
     }
+    printf("nhap mang\n");
     int arr[row][col];
     for (int i = 0; i < row; i++) {
         for (int j = 0; j < col; j++) {
