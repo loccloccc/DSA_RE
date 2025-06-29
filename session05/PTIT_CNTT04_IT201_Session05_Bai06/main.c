@@ -3,7 +3,6 @@
 int sumArr(int arr[] , int i , int size) {
     if (i==size) return 0;
     return arr[i] + sumArr(arr,i+1,size);
-    sumArr(arr , i+1,size);
 }
 
 int main(void) {

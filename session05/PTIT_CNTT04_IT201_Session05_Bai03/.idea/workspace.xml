@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75e9dfd4-ae52-48f2-9856-24c5a9e72b31" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PTIT_CNTT04_IT201_Session05_Bai03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PTIT_CNTT04_IT201_Session05_Bai03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session05_Bai06/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session05_Bai06/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2z4HAaFWgxd5LMBkJsINLlwdrYy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.PTIT_CNTT04_IT201_Session05_Bai03.c.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/loc/OneDrive/Máy tính/DSA_RE/session05/PTIT_CNTT04_IT201_Session05_Bai03/PTIT_CNTT04_IT201_Session05_Bai03.c",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PTIT_CNTT04_IT201_Session05_Bai03.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT04_IT201_Session05_Bai03" TARGET_NAME="PTIT_CNTT04_IT201_Session05_Bai03.c" CONFIG_NAME="PTIT_CNTT04_IT201_Session05_Bai03.c">
+      <option name="sourceFile" value="PTIT_CNTT04_IT201_Session05_Bai03.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.PTIT_CNTT04_IT201_Session05_Bai03.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75e9dfd4-ae52-48f2-9856-24c5a9e72b31" name="Changes" comment="" />
+      <created>1750983282710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750983282710</updated>
+      <workItem from="1750983283768" duration="273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
