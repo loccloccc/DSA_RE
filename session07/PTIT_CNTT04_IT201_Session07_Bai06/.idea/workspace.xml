@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0f3c0789-7cb5-4b3c-92a4-846e013bb10a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session07_Bai02/.idea/PTIT_CNTT04_IT201_Session07_Bai02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session07_Bai02/.idea/PTIT_CNTT04_IT201_Session07_Bai02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session07_Bai03/.idea/PTIT_CNTT04_IT201_Session07_Bai03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session07_Bai03/.idea/PTIT_CNTT04_IT201_Session07_Bai03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session07_Bai04/.idea/PTIT_CNTT04_IT201_Session07_Bai04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session07_Bai04/.idea/PTIT_CNTT04_IT201_Session07_Bai04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session07_Bai05/.idea/PTIT_CNTT04_IT201_Session07_Bai05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT04_IT201_Session07_Bai05/.idea/PTIT_CNTT04_IT201_Session07_Bai05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PTIT_CNTT04_IT201_Session07_Bai06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PTIT_CNTT04_IT201_Session07_Bai06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,8 @@
       <workItem from="1751349081206" duration="32000" />
       <workItem from="1751349114306" duration="17000" />
       <workItem from="1751354368128" duration="28000" />
+      <workItem from="1751433634712" duration="16000" />
+      <workItem from="1751436234503" duration="17000" />
     </task>
     <servers />
   </component>
