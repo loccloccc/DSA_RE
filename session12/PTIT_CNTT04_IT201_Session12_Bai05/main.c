@@ -74,7 +74,7 @@ int main(void) {
     int n;
     printf("nhap n:");
     scanf("%d", &n);
-    deleteValue(node1, n);
+    node1 = deleteValue(node1, n);
     printList(node1);
     return 0;
 }

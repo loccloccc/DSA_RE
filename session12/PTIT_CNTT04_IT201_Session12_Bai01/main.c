@@ -37,6 +37,7 @@ int main(void) {
     node3->next = node4;
     node4->prev = node3;
     node4->next = node5;
+    node5->prev = node4;
     printList(node1);
     return 0;
 }
