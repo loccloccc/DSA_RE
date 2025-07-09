@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 typedef struct Stack {
-    int arr;
+    int *arr;
     int top;
     int cap;
 }Stack;

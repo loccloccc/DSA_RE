@@ -55,5 +55,7 @@ int main(void) {
         }
     }
     printf("%d\n" , pop(stack));
+    free(stack);
+    free(stack->arr);
     return 0;
 }
